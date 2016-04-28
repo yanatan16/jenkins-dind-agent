@@ -1,4 +1,4 @@
-FROM docker:1.10-dind
+FROM yanatan16/docker:1.9.1
 
 # Please keep each package list in alphabetical order
 # Required dependencies for the Jenkins agent
